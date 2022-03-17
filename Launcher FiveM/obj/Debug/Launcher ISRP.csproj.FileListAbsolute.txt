@@ -1,0 +1,10 @@
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\bin\Debug\Launcher ISRP.exe.config
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\bin\Debug\Launcher ISRP.exe
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\bin\Debug\Launcher ISRP.pdb
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher ISRP.csprojAssemblyReference.cache
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher_ISRP.Form1.resources
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher_ISRP.Properties.Resources.resources
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher ISRP.csproj.GenerateResource.cache
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher ISRP.csproj.CoreCompileInputs.cache
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher ISRP.exe
+D:\reza\testing code\Launcher\ISRP Launcher\Launcher ISRP\obj\Debug\Launcher ISRP.pdb
